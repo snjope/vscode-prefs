@@ -1,0 +1,24 @@
+{
+    #"python.pythonPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.trimAutoWhitespace": true,
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+      "Dockerfile-*": "dockerfile",
+      "Vagrantfile": "ruby",
+      "Vagrantfile.*": "ruby"
+    },
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "typescript.check.npmIsInstalled": false,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "none",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+  }
